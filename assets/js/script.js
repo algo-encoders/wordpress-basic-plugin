@@ -1,4 +1,2 @@
-jQuery(document).ready(function(){
 
-});
 
